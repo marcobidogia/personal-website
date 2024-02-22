@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root
+{
+  /* Palette */
+  --primary-color:#525252;
+  --secondary-color:#414141;
+  --tertiary-color:#313131;
+  --text-color:#EC625F;
+}
+
+
+body {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+}
